@@ -1,0 +1,13 @@
+config_id,stop_words_included,stemming_applied,ngram_type
+1,No,No,uni
+2,No,No,bi
+3,No,No,tri
+4,No,Yes,uni
+5,No,Yes,bi
+6,No,Yes,tri
+7,Yes,No,uni
+8,Yes,No,bi
+9,Yes,No,tri
+10,Yes,Yes,uni
+11,Yes,Yes,bi
+12,Yes,Yes,tri

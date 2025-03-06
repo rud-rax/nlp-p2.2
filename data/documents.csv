@@ -1,0 +1,51 @@
+document_id,text
+doc_1,The cyber-attacker accessed your computer files.
+doc_2,The cyber-attacker accessed your computer programs.
+doc_3,The cyber-attacker accessed your information stored in an Internet site.
+doc_4,The cyber-attacker caused a program on your computer to crash.
+doc_5,The cyber-attacker caused your computer program to run very slowly.
+doc_6,The cyber-attacker caused your computer to crash.
+doc_7,The cyber-attacker caused your computer to run very slowly.
+doc_8,The cyber-attacker caused your Internet connection to run very slowly.
+doc_9,The cyber-attacker caused your request for a certain Internet page to actually take you to a different Internet page.
+doc_10,The cyber-attacker changed a device’s serial number.
+doc_11,The cyber-attacker changed how an Internet service functions so as to benefit the attacker.
+doc_12,The cyber-attacker changed the appearance of an Internet site.
+doc_13,The cyber-attacker completely filled your computer’s storage space.
+doc_14,The cyber-attacker deleted your information stored in an Internet site.
+doc_15,The cyber-attacker determined your password.
+doc_16,The cyber-attacker disrupted the availability of an Internet service.
+doc_17,The cyber-attacker floods your inbox with a very large number of emails.
+doc_18,The cyber-attacker forged a digital signature on an electronic document.
+doc_19,The cyber-attacker gained information about existing hidden pathways by which they can enter your system from the Internet.
+doc_20,The cyber-attacker gained information about the device that you use to create your home network.
+doc_21,The cyber-attacker gains your username and password for a given Internet site.
+doc_22,The cyber-attacker intercepted Internet traffic as it passes between your computer and the Internet.
+doc_23,The cyber-attacker irreparably damaged your computer’s hardware.
+doc_24,The cyber-attacker issued commands to your computer’s operating system.
+doc_25,The cyber-attacker made an Internet page that you use act differently than intended.
+doc_26,The cyber-attacker made you think an Internet site that the attacker created was a legitimate Internet site.
+doc_27,The cyber-attacker made you think that an email that you received from the attacker came from someone else.
+doc_28,The cyber-attacker made you think that information sent to your Internet browser came from a trusted source.
+doc_29,The cyber-attacker made you think that you had a secure connection to an Internet site when it was not secure.
+doc_30,The cyber-attacker made your computer perform tasks that benefit the attacker.
+doc_31,The cyber-attacker made your computer run software that your computer did not intend to run.
+doc_32,The cyber-attacker made your computer think that your password was entered when it was not.
+doc_33,The cyber-attacker modified the content of a digital message without your awareness.
+doc_34,The cyber-attacker modified your computer files in order to hide their activities.
+doc_35,The cyber-attacker modified your information stored in an Internet site.
+doc_36,The cyber-attacker modified your information within an Internet database.
+doc_37,The cyber-attacker opened new hidden pathways by which they can enter your system from the Internet.
+doc_38,The cyber-attacker performed actions on an Internet site as if they were you.
+doc_39,The cyber-attacker prevented you from accessing your home network.
+doc_40,The cyber-attacker prevented you from logging into an Internet site.
+doc_41,The cyber-attacker prevented you from logging into your computer.
+doc_42,The cyber-attacker prevented you from using your computer until you pay a ransom.
+doc_43,The cyber-attacker removed your computer files in order to hide their activities.
+doc_44,The cyber-attacker rerouted your Internet requests to a device that they control.
+doc_45,The cyber-attacker saw what was presented on your computer screen.
+doc_46,The cyber-attacker sent you an email that asks you to click on a given Internet link.
+doc_47,The cyber-attacker sent you an email that asks you to respond with certain personal information.
+doc_48,The cyber-attacker shut down an Internet site that you were using.
+doc_49,The cyber-attacker took control over one of your financial accounts.
+doc_50,The cyber-attacker used your computer to store and distribute stolen software.
